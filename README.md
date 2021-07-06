@@ -1,12 +1,12 @@
 # Index Applied Machine Learning
 
-#Informal Exercises
+# Informal Exercises
 - Module 1
     - [Tuesday Response](tues.md)
     
 - Module 2
 
-##Projects
+## Projects
 
 - Project 1
 - Project 2
