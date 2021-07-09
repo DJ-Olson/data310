@@ -3,7 +3,9 @@
 # Informal Exercises
 - Module 1
     - [Tuesday Response](tues.md)
-    
+    - [Wednesday Response](weds1.md)
+  
+
 - Module 2
 
 ## Projects
