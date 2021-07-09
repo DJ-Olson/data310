@@ -28,8 +28,14 @@ The image below from the 'train model' section of the data shows that the model 
 predictions_single = probability_model.predict(img)
 
 
-![Screen Shot 2021-07-07 at 9 54 42 PM](https://user-images.githubusercontent.com/60228369/125007796-10826d80-e02f-11eb-94e7-764a55438fb9.png)
+1. ![Screen Shot 2021-07-07 at 9 54 42 PM](https://user-images.githubusercontent.com/60228369/125007796-10826d80-e02f-11eb-94e7-764a55438fb9.png)
 
 
 ## 5)
 Below is a plot of 25 handwritten numbers from the new mnist dataset with their labels indicated below each image. The accuracy of the test dataset and training dataset are also included.
+
+1. ![Screen Shot 2021-07-07 at 10 01 16 PM](https://user-images.githubusercontent.com/60228369/125007954-740c9b00-e02f-11eb-9d3c-49026611c27f.png)
+
+2. ![Screen Shot 2021-07-07 at 10 03 27 PM](https://user-images.githubusercontent.com/60228369/125007977-7e2e9980-e02f-11eb-9d39-d2e33d4bd50f.png)
+
+3. ![Screen Shot 2021-07-07 at 10 03 10 PM](https://user-images.githubusercontent.com/60228369/125007978-7e2e9980-e02f-11eb-8b6f-39b38103efb8.png)
