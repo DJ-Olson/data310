@@ -27,3 +27,5 @@ The image below from the 'train model' section of the data shows that the model 
 
 predictions_single = probability_model.predict(img)
 
+
+![Screen Shot 2021-07-07 at 9 54 42 PM](https://user-images.githubusercontent.com/60228369/125007796-10826d80-e02f-11eb-94e7-764a55438fb9.png)
