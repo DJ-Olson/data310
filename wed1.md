@@ -39,3 +39,6 @@ Below is a plot of 25 handwritten numbers from the new mnist dataset with their 
 2. ![Screen Shot 2021-07-07 at 10 03 27 PM](https://user-images.githubusercontent.com/60228369/125007977-7e2e9980-e02f-11eb-9d39-d2e33d4bd50f.png)
 
 3. ![Screen Shot 2021-07-07 at 10 03 10 PM](https://user-images.githubusercontent.com/60228369/125007978-7e2e9980-e02f-11eb-8b6f-39b38103efb8.png)
+
+## 6) 
+Below are 2 images of numbers, along with their graph of predicted label. 
