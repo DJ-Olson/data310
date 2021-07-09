@@ -26,5 +26,4 @@ Below are 2 new images from the 'verify predictions' section of the data set:
 The image below from the 'train model' section of the data shows that the model predicted the image was an ankle boot. This matches the label '9' that was produced by the argmax function. We did not use the softmax function in this case because we simply wanted the label from the different classes which run sequentially 0-9, and did not want to see the probabilities that the image was each of the classes. These probabilites were calcualted by the following code: 
 
 predictions_single = probability_model.predict(img)
-print(predictions_single).
 
