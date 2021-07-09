@@ -1,7 +1,7 @@
 # Wednesday Responses
 
 ## 1) 
-Below are 3 new images from the 'preprocess the data' section of the data set:
+Below are 3 new images from the 'preprocess the data' section of the dataset:
 
 1. ![Screen Shot 2021-07-07 at 9 38 24 PM](https://user-images.githubusercontent.com/60228369/125006211-97354b80-e02b-11eb-9c3a-17681b45d13d.png)
 
@@ -16,7 +16,7 @@ The array below from the 'make predictions' section represents a list of probabi
 
 
 ## 3) 
-Below are 2 new images from the 'verify predictions' section of the data set:
+Below are 2 new images from the 'verify predictions' section of the dataset:
 
 1. ![Screen Shot 2021-07-07 at 9 49 08 PM](https://user-images.githubusercontent.com/60228369/125007254-d795c900-e02d-11eb-886d-90cf3ab9e519.png)
 
@@ -29,3 +29,7 @@ predictions_single = probability_model.predict(img)
 
 
 ![Screen Shot 2021-07-07 at 9 54 42 PM](https://user-images.githubusercontent.com/60228369/125007796-10826d80-e02f-11eb-94e7-764a55438fb9.png)
+
+
+## 5)
+Below is a plot of 25 handwritten numbers from the new mnist dataset with their labels indicated below each image. The accuracy of the test dataset and training dataset are also included.
