@@ -4,6 +4,7 @@
 - Module 1
     - [Tuesday Response](tues.md)
     - [Wednesday Response](wed1.md)
+    - [Thursday Response](https://amanroa.github.io/data310/wed1.html)
   
 
 - Module 2
