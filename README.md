@@ -11,6 +11,8 @@
 
 ## Projects
 
-- Project 1
+- [Project 1](proj1.md)
+
+
 - Project 2
 
