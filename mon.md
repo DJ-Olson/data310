@@ -11,3 +11,16 @@ Part 1 includes multi-class linear regression and a multi-class DNN regression u
 ![Screen Shot 2021-07-12 at 10 07 12 PM](https://user-images.githubusercontent.com/60228369/125385896-60cc3900-e369-11eb-9511-0bf5f17fe79f.png)
 ## 
 Upon examining the graphs and the absolute error table, it seems apparent that the linear regression model performed better than the DNN regression model.
+
+
+# Part 2
+For the second part of the project I added new features to try to improve the models. The target stayed the same (highway-mpg), and all the old features remained, but I also added the features 'city-mpg', 'engine-type', and 'normalized-loss'.
+
+
+## Linear loss model and prediction plot
+
+## DNN loss model and prediction plot
+
+## Mean Absolute Error Table
+
+## 
