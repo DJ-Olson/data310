@@ -7,4 +7,4 @@ Part 1 includes multi-class linear regression and a multi-class DNN regression u
 
 ## Mean Absolute Error Table
 
-Upon examining the graphs and the absolute error table it seems apparent that the linear regression model performed better than the DNN model.
+Upon examining the graphs and the absolute error table, it seems apparent that the linear regression model performed better than the DNN model.
