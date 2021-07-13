@@ -18,9 +18,12 @@ For the second part of the project I added new features to try to improve the mo
 
 
 ## Linear loss model and prediction plot
-
+![Screen Shot 2021-07-12 at 11 20 07 PM](https://user-images.githubusercontent.com/60228369/125386314-0f707980-e36a-11eb-9f15-f368984fa611.png)
+![Screen Shot 2021-07-12 at 11 22 11 PM](https://user-images.githubusercontent.com/60228369/125386318-10a1a680-e36a-11eb-9665-39b690cccf97.png)
 ## DNN loss model and prediction plot
-
+![Screen Shot 2021-07-12 at 11 20 55 PM](https://user-images.githubusercontent.com/60228369/125386320-113a3d00-e36a-11eb-8f0b-c5137ab0109a.png)
+![Screen Shot 2021-07-12 at 11 23 00 PM](https://user-images.githubusercontent.com/60228369/125386322-126b6a00-e36a-11eb-8da3-34b7363e7d84.png)
 ## Mean Absolute Error Table
+![Screen Shot 2021-07-12 at 11 21 19 PM](https://user-images.githubusercontent.com/60228369/125386324-14352d80-e36a-11eb-9f6c-b2db505e553e.png)
 
 ## 
