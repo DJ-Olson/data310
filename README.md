@@ -9,6 +9,7 @@
 
 - Module 2
     - [Monday Response](mon.md)
+    - [Tuesday Response 2](tues2.md)
 
 ## Projects
 
