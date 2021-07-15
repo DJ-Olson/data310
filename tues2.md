@@ -1,6 +1,6 @@
-# Higgs Dataset and Image Processing Responses
+# Higgs Dataset
 
-# Part 1 (Higgs Dataset)
+# Part 1 
 
 ## Question 1 
 ### Describe the dataset. What type of variable is the target? How many features are being used? How many observations are in the training dataset? How many are used in the validation set?
