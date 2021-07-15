@@ -20,6 +20,8 @@ The graph above demonstrates the performance of each of the models. The tiny mod
 ## Question 3
 ### Apply regularization, then add a drop out layer and finally combine both regularization with a dropout layer. Produce a plot that illustrates and compares all four models. Why in your estimation did certain models perform better?
 
+![Screen Shot 2021-07-14 at 5 37 45 PM](https://user-images.githubusercontent.com/60228369/125708702-7cb56444-92c1-4a97-b0aa-13b9759df87f.png)
+
 #
 The graph above shows that the combined (L2 and dropout) performed best. I think this is because it added weight penalties to the models loss while at the same time dropping out features as the model trained. 
 
