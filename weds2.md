@@ -6,4 +6,4 @@
 
 
 #
-Above are the 3 images I convolved. The filter I ran 3 times was: filter = [ [-1, 1, 1], [0, 0, -1], [-2, 1, 1]]. 
+Above are the 3 images I convolved. I ran this filter: [ [-1, 1, 1], [0, 0, -1], [-2, 1, 1]] 3 times, but multipled all the numbers in it by 10 with each consecutive run. It seems like as the filters ran, the larger filters enhanced the emphasis on both the horizontal and vertical lines. This makes sense because what an image filter does is go over an image by scanning each pixel and examining the neighboring pixels. It then multiplies these pixel values by the weights given in the filter. So, larger values would naturally provide stronger highlights to the similarities (such as vertical and horizontal lines) within an image. 
