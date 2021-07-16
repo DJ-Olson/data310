@@ -21,4 +21,8 @@ Above are the 3 images I convolved. I ran this filter: [ [-1, 1, 1], [0, 0, -1],
 I applied the pooling method to the last image from the previous question. By using the pooling method we are able to maintain the important features of the image while making it smaller by combining pixels. This is done by pooling pixels and keeping the ones that are largest. By doing this the image size decreased. This method would be useful for compressing images while keeping important features. This would help avoid softwares getting slowed down by lots of large images. 
 
 
+##
+### Below is the resulting matrix from convolving the 3x3 filter over the 9x9 matrix.
+
+
 
