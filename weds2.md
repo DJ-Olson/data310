@@ -24,5 +24,7 @@ I applied the pooling method to the last image from the previous question. By us
 ##
 ### Below is the resulting matrix from convolving the 3x3 filter over the 9x9 matrix.
 
+![Screen Shot 2021-07-16 at 7 50 37 PM](https://user-images.githubusercontent.com/60228369/126018566-132eb4e4-a6d8-43f4-b73e-5238dec7eaf9.png)
+
 
 
