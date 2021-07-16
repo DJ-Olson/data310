@@ -11,6 +11,7 @@
     - [Monday Response](mon.md)
     - [Tuesday Response 2](tues2.md)
     - [Wednesday Response 2](weds2.md)
+    - [Thursday Response 2](https://eanelson01.github.io/DATA310/mod2/thursday2.html)
 
 ## Projects
 
