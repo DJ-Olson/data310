@@ -18,7 +18,7 @@ Above are the 3 images I convolved. I ran this filter: [ [-1, 1, 1], [0, 0, -1],
 ![Screen Shot 2021-07-16 at 12 31 04 PM](https://user-images.githubusercontent.com/60228369/125979805-4b34e5d9-6a93-4f42-acd2-44de78b8c36e.png)
 
 #
-By using the pooling method we are able to maintain the important features of the image while making it smaller by combining pixels. This is done by pooling pixels and keeping the ones that are largest. By doing this the image size decreased. This method would be useful for compressing images while keeping important features. This would help avoid softwares getting slowed down by lots of large images. 
+I applied the pooling method to the last image from the previous question. By using the pooling method we are able to maintain the important features of the image while making it smaller by combining pixels. This is done by pooling pixels and keeping the ones that are largest. By doing this the image size decreased. This method would be useful for compressing images while keeping important features. This would help avoid softwares getting slowed down by lots of large images. 
 
 
 
