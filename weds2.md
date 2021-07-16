@@ -15,7 +15,7 @@ Above are the 3 images I convolved. I ran this filter: [ [-1, 1, 1], [0, 0, -1],
 ## Question 2
 ### Another useful method is pooling. Apply a 2x2 filter to one of your convolved images, and plot the result. In effect what have you accomplished by applying this filter? Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)? Did the resulting image increase in size or decrease? Why would this method be useful? Stretch goal: again, instead of using misc.ascent(), apply the pooling filter to one of your transformed images.
 
-
+![Screen Shot 2021-07-16 at 12 31 04 PM](https://user-images.githubusercontent.com/60228369/125979805-4b34e5d9-6a93-4f42-acd2-44de78b8c36e.png)
 
 #
 By using the pooling method we are able to maintain the important features of the image while making it smaller by combining pixels. This is done by pooling pixels and keeping the ones that are largest. By doing this the image size decreased. This method would be useful for compressing images while keeping important features. This would help avoid softwares getting slowed down by lots of large images. 
