@@ -13,6 +13,11 @@
     - [Wednesday Response 2](weds2.md)
     - [Thursday Response 2](https://eanelson01.github.io/DATA310/mod2/thursday2.html)
 
+
+- Module 3
+    - [Tuesday Response 3](tues3.md)
+    
+    
 ## Projects
 
 - [Project 1](proj1.md)
