@@ -18,6 +18,7 @@ A TensorFlow dataset is created by following three steps. The first is picking a
 
 The model architecture was constructed using the following code:
 
+![Screen Shot 2021-07-21 at 10 04 54 AM](https://user-images.githubusercontent.com/60228369/126502660-b72ca3e4-41b8-4ba2-b1eb-13e198ef7e74.png)
 
 This code specifies that we want the model to have 3 dense layers. The first two layers had 10 neurons each and the last had 3. The input_shape(4) portion of the code is included because each data point has four feature values that were previously mentioned. 
 
@@ -33,6 +34,7 @@ To train the model we had to develop a loss function. Because the target values 
 
 During the training portion of the model is also when the data is gradually optimized. To optimize our model we used the following code:
 
+![Screen Shot 2021-07-21 at 10 04 24 AM](https://user-images.githubusercontent.com/60228369/126502666-ce033f71-3563-42a7-8370-9cd4521ad976.png)
 
 The command tf.GradientTape() is used to calculate the gradients used to optimize the model. An optimizer applies gradients to a model in order to minimize the loss function. Gradients do this by finding the point of greatest ascent in the model. Because we want to minimize the difference between the predicted and actual label in this model, we then travel the opposite direction of the point of greatest ascent. In this dataset we used a stochastic gradient descent (SGD) algorithm to optimize the model. We created a loop for this algorithm so that the stochastic gradient descent could be applied over and over again and hopefully decrease the loss of the model as much as possible. 
 
@@ -41,6 +43,8 @@ The command tf.GradientTape() is used to calculate the gradients used to optimiz
 ### How the loss was estimated:
 
 To estimate the loss we trained the model over 200 epochs. This is not a lot of epochs to the model trained quickly and resulted in an accuracy of 99.167% on the 200th epoch which indicates we have a good model. Below is a plot that describes that change per epoch:
+
+![Screen Shot 2021-07-21 at 9 53 12 AM](https://user-images.githubusercontent.com/60228369/126502672-0da3b25b-a299-4ce0-9557-2217ba65bac5.png)
 
 #
 
@@ -54,4 +58,3 @@ To evaluate our model we loaded in a new Iris test dataset so we could use data 
 ### How new predicitons are able to be made:
  
 We can also use this model to make predictions on unlabeled Irises. This is done by manually creating a new dataset with only feature information but no labels. The model can take the feature information and then predict a label name (species of Iris), while also telling you how confident it is in its prediction with a percentage indication. 
-
