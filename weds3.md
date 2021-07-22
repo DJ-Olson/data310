@@ -9,7 +9,7 @@ This step was simple. The only thing that had to be changed from the provided sc
 
 
 ## Train, validate and test your model
-Training the model required the column names to be changed. This dataset was not too hard to work with because the variables were numeric.
+Training the model required the column names to be changed. This dataset was not too hard to work with because the variables were numeric. I used bucketized columns (every 10 years) for age and indicator columns for the rest of the variables. 
 
 
 ## Interpret and analyze your results. Did the model performance exhibit a particular trend?
