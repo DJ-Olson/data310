@@ -16,6 +16,7 @@
 
 - Module 3
     - [Tuesday Response 3](tues3.md)
+    - [Wednesday Response 3](weds3.md)
     
     
 ## Projects
