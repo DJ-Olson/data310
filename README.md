@@ -15,6 +15,7 @@
 
 
 - Module 3
+    - [Monday Response 2](mon2.md)
     - [Tuesday Response 3](tues3.md)
     - [Wednesday Response 3](weds3.md)
     - [Thursday Response 3](https://tyeatts75.github.io/Data310/thurs3.html)
