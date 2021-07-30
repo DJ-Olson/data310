@@ -11,6 +11,7 @@ To begin this project I started by using the preprocessing script and modifying 
 ![Screen Shot 2021-07-29 at 9 37 58 PM](https://user-images.githubusercontent.com/60228369/127586803-8a9eb1e7-5a5d-4480-88fd-e4cb10db2e18.png)
 
 
+
 ### Using the data and two models you produced in step 1, create a confusion matrix. You are welcome to use the following script. With your confusion matrix as a reference, analyze and discuss the two sets of results you produced.
 
 # 
@@ -26,6 +27,9 @@ After I concluded that I would be using wealth classes 2 and 5 I continued to pr
 As you can see these matrices did not do very well. Each matrix simply predicted all values to have the label 0. What this means is that each matrix simply predicted that every value was not the wealth class (either 2 or 5) we were trying to predict. This result was not satisfactory to me so I decided to write a new script that was closer to the feature columns script than the previous one I had written using the preprocessing script. When writing this new script I also dropped some of the columns that I thought would not affect wealth class (these included the unit, pnmbr, hhid, size, and weights columns), and I categorized the remaining columns as either numeric or categorical columns. I then created these two new confusion matrices for wealth classes 2 and 5:
 
 ## Feature Columns Script Confusion Matrices:
+![Screen Shot 2021-07-29 at 9 11 36 PM](https://user-images.githubusercontent.com/60228369/127586870-92fd3331-7935-4343-9691-c040e3395c53.png)
+![Screen Shot 2021-07-29 at 9 09 38 PM](https://user-images.githubusercontent.com/60228369/127586873-50de32c6-7170-4087-bcd6-774cb79b5eab.png)
+
 
 
 These confusion matrices were more satisfactory to me. The first one I generated was for wealth class 2 and it did not change a lot. However, the second matrix I generated for wealth class 5 varied more from the preprocessing script confusion matrix. This satisfied me because I was now confident that I had written a script that was not simply predicting that the wealth class was not the set target. It also makes sense that the wealth class 5 matrix would vary more than the wealth class 2 matrix because at the beginning we calculated that wealth class 5 had the best accuracy after training. 
@@ -37,11 +41,16 @@ These confusion matrices were more satisfactory to me. The first one I generated
 
 Finally, after finishing the confusion matrices for individual wealth classes I modified my feature columns script to predict all wealth classes from the other features. The first matrix fared okay and I was somewhat satisfied with the result.
 
-## Confusion Matrix for all Wealth Classes.
+## Confusion Matrix for all Wealth Classes:
+![Screen Shot 2021-07-29 at 9 05 04 PM](https://user-images.githubusercontent.com/60228369/127586879-fcbdd119-4746-4f99-8baa-18917b6d5051.png)
+
+
 
 However, after generating this matrix I decide that I wanted to see if I could modify the feature columns to improve the accuracy. To do this I decided to bucketize the age column and also use John's technique to bucketize the toilet column. These modifications resulted in the following matrix.
 
 ## Confusion Matrix with Modified Columns:
+![Screen Shot 2021-07-29 at 9 11 54 PM](https://user-images.githubusercontent.com/60228369/127586881-9a1e6207-80d4-4156-aba5-5a4bebe63636.png)
+
 
 
 As you can see by comparing the two matrices the prediction results definitely changed by bucketizing certain feature columns. However, I found it interesting that while the predictions were different, it is hard to say if the matrix was more or less accurate. Some of the classes were predicted better with the bucketed columns and some were not. This result goes to show that when you wrangle 'wild data' the only way to really improve your results is often trial and error. I am sure there are countless possible modifications that can be made to the feature columns that change the confusion matrix predictions, and I am interested to look over what changes my classmates made, and whether or not these changes improved their accuracies. 
