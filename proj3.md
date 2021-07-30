@@ -2,7 +2,7 @@
 
 ### Using either the Classify structured data with feature columns script or the Classify structured data using Keras Preprocessing Layers with the country_persons.csv dataset, specify, train and evaluate models that predict class of wealth versus all other classes as a binary target. Amongst the five possible binary targets (1 versus all others, 2 versus all other etc...), produce your results from the two models with the best and worst accuracy.
 
-#
+
 
 To begin this project I started by using the preprocessing script and modifying it to predict each of the 5 wealth classes one at a time. By doing this it allowed me to compare which one models had the best and worst accuracies. I found that wealth class 2 had the worst accuracy at just under 75%, and wealth class 5 had the best accuracy at just over 95%.
 
@@ -14,7 +14,7 @@ To begin this project I started by using the preprocessing script and modifying 
 
 ### Using the data and two models you produced in step 1, create a confusion matrix. You are welcome to use the following script. With your confusion matrix as a reference, analyze and discuss the two sets of results you produced.
 
-# 
+
 
 After I concluded that I would be using wealth classes 2 and 5 I continued to produce the confusion matrices using the provided script. I first used the preprocessing script to train the data again and I produced the following confusion matrices.
 
@@ -37,7 +37,7 @@ These confusion matrices were more satisfactory to me. The first one I generated
 
 ### Again using either the Classify structured data with feature columns script or the Classify structured data using Keras Preprocessing Layers with the country_persons.csv dataset, specify, train and evaluate a model that predicts all class of wealth outcomes as a categorical target. Again create a confusion matrix in order to analyze and discuss your results. Revisit the Classify structured data with feature columns script or the Classify structured data using Keras Preprocessing Layers in order to modify your feature columns, in an attempt to improve the accuracy of your model that uses all five categorical wealth classes as the target. Analyze and discuss your progress and results.
 
-#
+
 
 Finally, after finishing the confusion matrices for individual wealth classes I modified my feature columns script to predict all wealth classes from the other features. The first matrix fared okay and I was somewhat satisfied with the result.
 
