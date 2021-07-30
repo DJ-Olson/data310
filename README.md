@@ -30,5 +30,5 @@
 - [Project 1](proj1.md)
 
 
-- Project 2
+- [Project 3](proj3.md)
 
