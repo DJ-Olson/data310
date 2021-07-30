@@ -8,7 +8,7 @@ To begin this project I started by using the preprocessing script and modifying 
 
 ## Wealth Classes 2 and 5 Accuracy Measurements:
 ![Screen Shot 2021-07-29 at 8 41 00 PM](https://user-images.githubusercontent.com/60228369/127586637-65085e49-4bdc-4cad-9173-26c9182a7ecd.png)
-![Screen Shot 2021-07-29 at 8 39 08 PM](https://user-images.githubusercontent.com/60228369/127586643-b8cf1c06-93d4-477f-84d3-71f629b57841.png)
+![Screen Shot 2021-07-29 at 9 37 58 PM](https://user-images.githubusercontent.com/60228369/127586803-8a9eb1e7-5a5d-4480-88fd-e4cb10db2e18.png)
 
 
 ### Using the data and two models you produced in step 1, create a confusion matrix. You are welcome to use the following script. With your confusion matrix as a reference, analyze and discuss the two sets of results you produced.
