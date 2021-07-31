@@ -34,5 +34,5 @@
 
 
 - [Project 4]
-    - [incredibles.txt](incredibles.txt.md)
+    - [incredibles.txt](incredibles.txt)
 
