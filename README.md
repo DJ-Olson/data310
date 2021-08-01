@@ -33,6 +33,6 @@
 - [Project 3](proj3.md)
 
 
-- [Project 4]
-    - [incredibles.txt](incredibles.txt)
+- [Project 4](https://tyeatts75.github.io/Data310/project4.html)
+
 
