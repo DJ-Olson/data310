@@ -12,3 +12,6 @@ For this exercise I chose to merge two images that represented the way I have be
 ![Screen Shot 2021-07-29 at 10 30 54 AM](https://user-images.githubusercontent.com/60228369/127510631-e42d9e48-0002-41d4-95e5-9cf964854b8f.png)
 
 After merging the images I was pretty happy with the result. If I could change one thing I think I would choose a pattern with less blue becasue the original image has so much blue in the ocean. I think that a pattern that had a stronger contrast to the original image might have output a result that popped more. 
+
+
+
