@@ -26,7 +26,7 @@
     - [Thursday Response 4](thurs4.md)
     
     
-## Projects
+## Weekly Projects
 
 - [Project 1](proj1.md)
 
@@ -36,4 +36,8 @@
 
 - [Project 4](https://tyeatts75.github.io/Data310/project4.html)
 
+
+## Final Project
+
+- [Abstract](Abstract.md)
 
